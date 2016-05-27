@@ -44,7 +44,6 @@ My personal Website
                                     <li><a href="https://www.instagram.com/?hl=en"><img src="https://socialcontrol.com/wp-content/themes/planer/assets/images/icons/social/Instagram-icon.png" /></a></li>
                                 </ul>
                                  <div class="hit-counter">
-
                                  </div>
                                  <div class="contact-btn">
                                     <a href="Contact-form.html"><b>Contact</b></a>
